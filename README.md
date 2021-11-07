@@ -1,0 +1,1 @@
+The code in this repository is based on the RabbitMQ JavaScript tutorial that can be found on [this page](https://www.rabbitmq.com/getstarted.html). Basically, what I did is just rewriting the code with **TypeScript** in case anyone needs it for an extra example.
